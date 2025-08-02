@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
-<h3 align="center">A Responsive Website Developer & WordPress Designer from Bangladesh</h3>
+<h3 align="center">Hello! I'm a responsive website developer and WordPress designer, passionate about creating clean, modern, and user-friendly websites that work seamlessly across all devices.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-abdurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="dev-abdurrahman" /> </p>
 
