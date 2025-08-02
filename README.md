@@ -1,5 +1,4 @@
 <img src="https://i.ibb.co/5xG5hzwH/Yellow-and-White-Geometric-Business-Facebook-Cover-1.png">
-<h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">Hello! I'm a responsive website developer and WordPress designer, passionate about creating clean, modern, and user-friendly websites that work seamlessly across all devices.
 </h3>
 
